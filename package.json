@@ -1,0 +1,14 @@
+{
+  "name": "fonicy-html",
+  "version": "1.0.0",
+  "description": "dunu blocks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dunu"
+  ],
+  "author": "bebcode",
+  "license": "ISC"
+}
